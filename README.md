@@ -33,10 +33,10 @@ This repository contains a complete Red Hat Enterprise Linux deployment project 
 ✅ Scalable multi-department architecture  
 
 ## 🖼️ Screenshots
-All steps were captured and included in the 
+All steps were captured and included in the `Enterprise Linux Server Deployment & Hardening.pdf`
 
 ## 📂 Files Included
-- `Redhat-project.pptx`: Full screenshots and task walkthrough
+- `Enterprise Linux Server Deployment & Hardening.pdf`: Full screenshots and task walkthrough
 - `README.md`: This file
   
 ## 👨‍💻 Author
