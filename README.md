@@ -37,6 +37,7 @@ All steps were captured and included in the `Enterprise Linux Server Deployment 
 
 ## 📂 Files Included
 - `Enterprise Linux Server Deployment & Hardening.pdf`: Full screenshots and task walkthrough
+- `Commands that used`: `Most of the commands used.sh`
 - `README.md`: This file
   
 ## 👨‍💻 Author
