@@ -1,4 +1,4 @@
-# 🚀 RHCSA Enterprise Linux Deployment Project
+# 🚀 Red Hat Enterprise Linux Deployment Project
 
 ## 📋 Project Overview
 This repository contains a complete Red Hat Enterprise Linux deployment project for a multi-department technology company.
