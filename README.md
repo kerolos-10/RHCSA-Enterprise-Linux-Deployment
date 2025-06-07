@@ -32,6 +32,13 @@ This repository contains a complete Red Hat Enterprise Linux deployment project 
 ✅ Enterprise-grade security implementation  
 ✅ Scalable multi-department architecture  
 
+## 🖼️ Screenshots
+All steps were captured and included in the 
+
+## 📂 Files Included
+- `Redhat-project.pptx`: Full screenshots and task walkthrough
+- `README.md`: This file
+  
 ## 👨‍💻 Author
 **Kerolos Mamdouh Nageh**  
 Linux System Administrator | RHCSA Certified
